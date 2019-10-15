@@ -1,0 +1,26 @@
+.toggle {
+  height: 22px;
+}
+
+.toggle-wrapper {
+  background: #E2E2E2;
+  border-radius: 11px;
+  height: 22px;
+  width: 46px;
+  position: relative;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+}
+
+.toggle-btn {
+  height: 28px;
+  width: 28px;
+  background-color:#AAAAAA;
+  opacity: 1;
+  position: relative;
+  top: -25px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  transition: 0.4s ease-in-out;
+}
